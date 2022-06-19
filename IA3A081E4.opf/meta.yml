@@ -1,0 +1,36 @@
+id: IA3A081E4
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T14:00:58.970929'
+last_modified: '2022-06-19T14:00:58.971013'
+parser: null
+source_metadata:
+  title: rDo rje gdan pa Kun dga rnam rgyals (1432–1496) Record of Teachings Received
+  author: gong dkar rdo rje gdan pa kun dga rnam rgyal/
+  description: 'Digital version 2.1 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-06-10); revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:Mathias Fermer (mf), kun dga' rdo rje/ (Kathmandu) (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:Mathias Fermer (mf)
+  text_witnesses: https://sakyaresearch.org/sources/22
+  bases:
+    cab8:
+      title: rDo rje gdan pa Kun dga rnam rgyals (1432–1496) Record of Teachings Received
+      order: 1
+      base_file: cab8.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
